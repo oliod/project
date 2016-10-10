@@ -1,1 +1,1 @@
-hello this is me igor (world is good) 
+hello this is me igor (world is good) super()
